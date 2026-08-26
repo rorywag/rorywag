@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img alt="Rory Wagner, Incident Response, Wellington New Zealand" src="assets/header-light.svg" width="100%">
+  </picture>
+</div>
 
-<!--
-**rorywag/rorywag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering in Sentinel and Defender. What I publish here is the material I use in casework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Detection and hunting
+
+KQL for Microsoft Sentinel and Defender. Each query records the tables it needs and what it assumes about the environment.
+
+[**KQL-Detections**](https://github.com/rorywag/KQL-Detections)
+
+[**sleuthifer**](https://rorywag.gitbook.io/sleuthifer)
+
+</td>
+<td width="50%" valign="top">
+
+### Areas of focus
+
+- Hands-on IR across Microsoft estates, from triage through to root cause
+- Entra ID investigation, including adversary-in-the-middle and token theft
+- Detection engineering and tuning in Sentinel and MDE
+- Threat hunting, and training analysts to do it
+
+</td>
+</tr>
+</table>
+
+<br>
+
+GCFA, GEIR, CFCE, PCSP. GIAC Advisory Board.
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rorywagner">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://rorywag.gitbook.io/sleuthifer">sleuthifer</a>
+</div>
