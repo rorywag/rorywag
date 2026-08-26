@@ -28,7 +28,6 @@ KQL for Microsoft Sentinel and Defender. Each query records the tables it needs 
 ### Areas of focus
 
 - Hands-on IR across Microsoft estates, from triage through to root cause
-- Entra ID investigation, including adversary-in-the-middle and token theft
 - Detection engineering and tuning in Sentinel and MDE
 - Threat hunting, and training analysts to do it
 
