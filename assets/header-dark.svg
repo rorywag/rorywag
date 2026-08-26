@@ -1,1 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-label="Rory Wagner, Incident Response, Wellington New Zealand">
+  <rect width="1200" height="370" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="369" rx="14" fill="none" stroke="#30363d"/>
 
+  <rect x="1" y="1" width="1198" height="46" rx="14" fill="#161b22"/>
+  <rect x="1" y="33" width="1198" height="14" fill="#161b22"/>
+  <line x1="1" y1="47" x2="1199" y2="47" stroke="#30363d"/>
+  <circle cx="32" cy="24" r="7" fill="#ff5f57"/>
+  <circle cx="56" cy="24" r="7" fill="#febc2e"/>
+  <circle cx="80" cy="24" r="7" fill="#28c840"/>
+  <text x="600" y="29" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" text-anchor="middle">whoami.kql</text>
+
+  <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+    <tspan x="44" y="84" fill="#6e7681">// whoami</tspan>
+    <tspan x="44" y="112" fill="#ffa657">UserInformation</tspan>
+    <tspan x="44" y="138" fill="#8b949e">| </tspan><tspan fill="#ff7b72">where</tspan><tspan fill="#c9d1d9"> Handle</tspan><tspan fill="#8b949e"> == </tspan><tspan fill="#a5d6ff">"Sleuthifer"</tspan>
+    <tspan x="44" y="164" fill="#8b949e">| </tspan><tspan fill="#ff7b72">where</tspan><tspan fill="#c9d1d9"> Discipline</tspan><tspan fill="#8b949e"> </tspan><tspan fill="#ff7b72">in~</tspan><tspan fill="#8b949e"> (</tspan><tspan fill="#a5d6ff">"DFIR"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Detection Engineering"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Threat Hunting"</tspan><tspan fill="#8b949e">)</tspan>
+    <tspan x="44" y="190" fill="#8b949e">| </tspan><tspan fill="#ff7b72">project</tspan><tspan fill="#c9d1d9"> Name</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#c9d1d9">Role</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#c9d1d9">Location</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#c9d1d9">Certs</tspan>
+  </text>
+
+  <line x1="44" y1="222" x2="1156" y2="222" stroke="#30363d"/>
+
+  <text x="44" y="272" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6edf3">Rory Wagner</text>
+  <text x="44" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#58a6ff">Incident Response</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">
+    <text x="44" y="340">Wellington, New Zealand</text>
+    <text x="250" y="340" fill="#30363d">/</text>
+    <text x="274" y="340">GCFA</text>
+    <text x="320" y="340" fill="#30363d">/</text>
+    <text x="344" y="340">GEIR</text>
+    <text x="390" y="340" fill="#30363d">/</text>
+    <text x="414" y="340">CFCE</text>
+    <text x="460" y="340" fill="#30363d">/</text>
+    <text x="484" y="340">PCSP</text>
+  </g>
+</svg>
