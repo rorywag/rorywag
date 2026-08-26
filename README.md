@@ -8,7 +8,7 @@
 
 <br>
 
-Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering in Sentinel and Defender. What I publish here is the material I use in casework.
+Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering in Sentinel and Defender.
 
 <br>
 
@@ -18,7 +18,7 @@ Incident response across Microsoft environments. Windows, Linux and M365 forensi
 
 ### Detection and hunting
 
-KQL for Microsoft Sentinel and Defender. Each query records the tables it needs and what it assumes about the environment.
+KQL for Microsoft Sentinel and Defender.
 
 [**KQL-Detections**](https://github.com/rorywag/KQL-Detections)
 
