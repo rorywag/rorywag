@@ -38,7 +38,7 @@ KQL for Microsoft Sentinel and Defender. Each query records the tables it needs 
 
 <br>
 
-GCFA, GEIR, CFCE, PCSP. GIAC Advisory Board.
+GCFA, GEIR, CFCE, GIAC Advisory Board.
 
 <br>
 
