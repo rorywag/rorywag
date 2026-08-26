@@ -22,8 +22,6 @@ KQL for Microsoft Sentinel and Defender. Each query records the tables it needs 
 
 [**KQL-Detections**](https://github.com/rorywag/KQL-Detections)
 
-[**sleuthifer**](https://rorywag.gitbook.io/sleuthifer)
-
 </td>
 <td width="50%" valign="top">
 
