@@ -41,10 +41,6 @@ Co-built the [Narcos digital forensics scenario](https://digitalcorpora.org/corp
 
 <br>
 
-GCFA, GEIR, CFCE, GIAC Advisory Board.
-
-<br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rorywagner">LinkedIn</a>
   &nbsp;&middot;&nbsp;
