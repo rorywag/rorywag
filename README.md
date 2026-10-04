@@ -8,7 +8,7 @@
 
 <br>
 
-Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering.
+Incident response across Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering.
 
 <br>
 
