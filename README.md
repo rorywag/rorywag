@@ -8,7 +8,7 @@
 
 <br>
 
-Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering in Sentinel and Defender.
+Incident response across Microsoft environments. Windows, Linux and M365 forensics, Entra ID investigation, and detection engineering.
 
 <br>
 
@@ -28,12 +28,16 @@ KQL for Microsoft Sentinel and Defender.
 ### Areas of focus
 
 - Hands-on IR across Microsoft estates, from triage through to root cause
-- Detection engineering and tuning in Sentinel and MDE
+- Detection engineering and tuning
 - Threat hunting, and training analysts to do it
 
 </td>
 </tr>
 </table>
+
+<br>
+
+Co-built the [Narcos digital forensics scenario](https://digitalcorpora.org/corpora/scenarios/2019-narcos/) on Digital Corpora with the [DFIR Sleuths](https://dfirsleuths.github.io/) team.
 
 <br>
 
@@ -44,5 +48,5 @@ GCFA, GEIR, CFCE, GIAC Advisory Board.
 <div align="center">
   <a href="https://www.linkedin.com/in/rorywagner">LinkedIn</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://rorywag.gitbook.io/sleuthifer">sleuthifer</a>
+  <a href="https://sleuthifer.nz">sleuthifer.nz</a>
 </div>
