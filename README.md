@@ -22,6 +22,12 @@ KQL for Microsoft Sentinel and Defender.
 
 [**KQL-Detections**](https://github.com/rorywag/KQL-Detections)
 
+### Writing
+
+DFIR notes and reference material.
+
+[**sleuthifer.nz**](https://sleuthifer.nz)
+
 </td>
 <td width="50%" valign="top">
 
