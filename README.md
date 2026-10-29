@@ -6,12 +6,6 @@
   </picture>
 </div>
 
-<br>
-
-Incident response across Windows, Linux and M365 forensics, Entra ID, and detection engineering.
-
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
