@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="700" valign="top">
 
 ### Detection and hunting
 
@@ -23,7 +23,7 @@ DFIR notes and reference material.
 [**sleuthifer.nz**](https://sleuthifer.nz)
 
 </td>
-<td width="50%" valign="top">
+<td width="700" valign="top">
 
 ### Areas of focus
 
